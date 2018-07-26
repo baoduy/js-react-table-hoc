@@ -13,5 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "keywords": [],
+  "description": "The Foldable HOC for https://react-table.js.org"
 }

@@ -1,4 +1,7 @@
 # FoldableTable
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/baoduy/js-react-table-hoc.svg)](https://greenkeeper.io/)
+
 FoldableTable is a HOC that make the columns are foldable. The reason I developed this HOC because when working on the real project related to the financial which display so many columns for validation and comparison. 
 
 So foldable columns allow users to temporary hidden the unwanted to columns so that they can focus on the data that they want to see.

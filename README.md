@@ -1,3 +1,5 @@
+[![Open Source Helpers](https://www.codetriage.com/baoduy/react-table-hoc/badges/users.svg)](https://www.codetriage.com/baoduy/react-table-hoc)
+
 # FoldableTable
 FoldableTable is a HOC that make the columns are foldable. The reason I developed this HOC because when working on the real project related to the financial which display so many columns for validation and comparison. 
 

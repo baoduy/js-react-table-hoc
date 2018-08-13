@@ -2,7 +2,7 @@
   "name": "foldabletablehoc",
   "version": "0.1.0",
   "private": true,
-  "index":"./src/hoc/foldableTable/index"
+  "index":"./src/hoc/foldableTable/index",
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",

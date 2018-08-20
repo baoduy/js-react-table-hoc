@@ -2,7 +2,7 @@
 
 # NOTICE
 
-**<span style="color:darkred">This is a part of [react-table.js.org](https://react-table.js.org) so you should use it directly in the npm package no need to install this separately.</span>**
+**This is a part of [react-table.js.org](https://react-table.js.org) so you should use it directly in the npm package no need to install this separately.**
 
 For sample please refer [here](https://codesandbox.io/s/8pkrj5yorl).
 

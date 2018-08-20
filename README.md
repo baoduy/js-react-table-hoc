@@ -1,9 +1,12 @@
 [![Open Source Helpers](https://www.codetriage.com/baoduy/react-table-hoc/badges/users.svg)](https://www.codetriage.com/baoduy/react-table-hoc)
 
-# FoldableTable
+# NOTICE
+
 **This is a part of [react-table.js.org](https://react-table.js.org) so you should use it directly in the npm package no need to install this separately.**
 
 For sample please refer [here](https://codesandbox.io/s/8pkrj5yorl).
+
+## FoldableTable
 
 FoldableTable is a HOC that make the columns are foldable. The reason I developed this HOC because when working on the real project related to the financial which display so many columns for validation and comparison. 
 

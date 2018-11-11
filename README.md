@@ -1,8 +1,7 @@
 [![Open Source Helpers](https://www.codetriage.com/baoduy/react-table-hoc/badges/users.svg)](https://www.codetriage.com/baoduy/react-table-hoc)
 
-# NOTICE
-
-**This is a part of [react-table.js.org](https://react-table.js.org) so you should use it directly in the npm package no need to install this separately.**
+# React-Table-HOCS
+The collection of HOCs using by some of my personal open-source projects. I would like to consolidate all of them here and share as an addition hocs for [React-Tables](http://react-table.js.org)
 
 For sample please refer [here](https://codesandbox.io/s/8pkrj5yorl).
 
@@ -12,8 +11,8 @@ FoldableTable is a HOC that make the columns are foldable. The reason I develope
 
 So foldable columns allow users to temporary hidden the unwanted to columns so that they can focus on the data that they want to see.
 
-## Avaibility
-The component had been embeded to the original [react-table](https://react-table.js.org/#/story/hoc-readme) and available there. So this repository just for reference purpose. You can using the component directly from here [npm](https://www.npmjs.com/package/react-table).
+## Availability
+The component had been embedded in the original [react-table](https://react-table.js.org/#/story/hoc-readme) and available there. So this repository just for reference purpose. You can use the component directly from here [npm](https://www.npmjs.com/package/react-table).
 
 ## How it work
 ```javascfript

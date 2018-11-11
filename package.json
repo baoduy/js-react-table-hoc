@@ -2,19 +2,20 @@
   "name": "foldabletablehoc",
   "version": "0.1.0",
   "private": true,
-  "index":"./src/hoc/foldableTable/index",
+  "index": "./src/hoc/foldableTable/index",
   "dependencies": {
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1",
-    "react-scripts": "1.1.4",
-    "react-table": "^6.8.0"
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "react-scripts": "2.1.1",
+    "react-table": "^6.8.6"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "update": "ncu -u -a"
   },
   "keywords": [],
-  "description": "The Foldable HOC for https://react-table.js.org"
+  "description": "The collection of HOCs for https://react-table.js.org"
 }

@@ -3,9 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 import "react-table/react-table.css";
 
-import FoldableTableWithHeader from './components/FoldableTableWithHeader';
-import FoldableTableWithoutHeader from './components/FoldableTableWithoutHeader';
-import FoldableTableCustomState from './components/FoldableTableCustomState';
+import FoldableTableWithHeader from '../components/FoldableTableWithHeader';
+import FoldableTableWithoutHeader from '../components/FoldableTableWithoutHeader';
+import FoldableTableCustomState from '../components/FoldableTableCustomState';
 
 class App extends Component {
   constructor(props, context) {

@@ -4,7 +4,7 @@
   "private": true,
   "index": "./src/hoc/foldableTable/index",
   "dependencies": {
-    "react": "^16.6.1",
+    "react": "^16.10.1",
     "react-dom": "^16.9.0",
     "react-scripts": "2.1.1",
     "react-table": "^6.10.2"

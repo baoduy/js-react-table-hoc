@@ -7,7 +7,7 @@
     "react": "^16.6.1",
     "react-dom": "^16.9.0",
     "react-scripts": "2.1.1",
-    "react-table": "^6.10.2"
+    "react-table": "^6.11.5"
   },
   "scripts": {
     "start": "react-scripts start",
